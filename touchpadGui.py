@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #############################################################################
-#   Aplicación para desactivar click en los touchpad                        #
+#   App para desactivar click en los touchpad                               #
 #   Copyright (C) 2013 linuxknow@gmail.com                                  #
 #                                                                           #
 #   This program is free software: you can redistribute it and/or modify    #
